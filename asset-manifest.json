@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/steps-order-component/static/css/main.20dbcc93.css",
+    "main.js": "/steps-order-component/static/js/main.f65f35d9.js",
+    "index.html": "/steps-order-component/index.html",
+    "main.20dbcc93.css.map": "/steps-order-component/static/css/main.20dbcc93.css.map",
+    "main.f65f35d9.js.map": "/steps-order-component/static/js/main.f65f35d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20dbcc93.css",
+    "static/js/main.f65f35d9.js"
+  ]
+}
